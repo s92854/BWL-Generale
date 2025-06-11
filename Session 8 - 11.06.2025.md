@@ -19,3 +19,15 @@ Gesamtkapital = Eigenkapital + Fremdkapital
 *Abb. 1-23*
 Umlaufvermögen (kürzer als 1 Jahr im Betrieb), muss nicht abgeschrieben werden
 Anlagevermögen (länger als 1 Jahr im Betrieb), muss abgeschrieben werden
+
+
+Bilanzstichtag = Gilt nur für diesen einen Tag
+
+Die GuV (Gewinn- und Verlustrechnung) bezieht sich auf einen Zeitraum, die Bilanz hingegen spiegelt die Vermögenslage an einem Tag wieder (Stichtag).
+
+&nbsp;
+
+## Jahresabschlussanalyse
+Jahresabschlüsse werden von interessierten Personen (z.B. Einkäufern) analysiert, um den Betrieb besser verstehen und bewerten zu können.
+
+$Rentabilität = \frac{Gewinn}{eingesetztes Kapital} \cdot 100%$ zur Analyse der Erfolgstage
