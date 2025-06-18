@@ -8,6 +8,7 @@ EAT = 135622 - 52000 - 135622 * 0,28= 45647,84
 
 
 # Session 8 - Gewinnermittlung
+**11.06.2025**
 
 ## Bilanz
 Unternehmen sind verpflichtet, ein Mal pro Jahr eine Bilanz aufzustellen. Die Bilanz gehört zum Jahresabschluss. Grundlage der Bilanz ist das Inventar. Alle Vermögensgegenstände [Eigentum des Unternehmens] (V<sub>1</sub>, V<sub>2</sub>, ..., V<sub>n</sub>,) und alle Schulden (S<sub>1</sub>, S<sub>2</sub>,..., S<sub>n</sub>). Die Bilanz wird aus dem Inventar abgeleitet. Sie ist eine Gegenüberstellung des Vermögens mit dem Eigen- und Fremdkapital.
