@@ -1,12 +1,3 @@
-FE = 25615 * 0,04 - 7500 = -31086
-
-EBT = 166708 - 31086 = 135622
-
-EBIT = 135622 + 0,04 * 1230000 = 184822
-
-EAT = 135622 - 52000 - 135622 * 0,28= 45647,84
-
-
 # Session 8 - Gewinnermittlung
 **11.06.2025**
 
@@ -18,7 +9,9 @@ Eigenkapital = gesamtes Vermögen - gesamte Schulden (inkl. Fremdkapital, etc.)
 Gesamtkapital = Eigenkapital + Fremdkapital
 
 *Abb. 1-23*
+
 Umlaufvermögen (kürzer als 1 Jahr im Betrieb), muss nicht abgeschrieben werden
+
 Anlagevermögen (länger als 1 Jahr im Betrieb), muss abgeschrieben werden
 
 
@@ -61,3 +54,57 @@ In welchem Umfang kann das Unternehmen aus der laufenden Geschäftstätigkeit fi
 $V = \frac{⌀FK}{⌀EK} \cdot \( 100\% \)$
 
 $⌀GK = \frac{EK^{Eröffnung} + EK^{Schluss}}{2} + \frac{FK^{Eröffnung} + FK^{Schluss}}{2}$
+
+EK Eröffnung (Index, nicht hoch)
+
+*Bild 1-24*
+
+#### Lösungen Aufgabe 1-8
+BE = 166.708
+
+FE = 25615 * 0,04 - 7500 = -31086
+
+EBT = 166708 - 31086 = 135622
+
+EBIT = 135622 + 0,04 * 1230000 = 184822
+
+EAT = 135622 - 52000 - 135622 * 0,28= 45647,84
+
+#### Aufgabe 1-9
+
+Beginn Geschäftsjahres Eigenkapital: 810.000€
+FK: 1.252.500€
+
+Ende GJ EK: 855.648€
+FK: 1.207.500€
+
+1. Durchschnitte
+
+$⌀EK = \frac{810000 + 855648}{2} = 832824$
+
+$⌀FK = \frac{1252500+ 1207500}{2} = 1230000$
+
+$⌀GK = \frac{810000 + 855648}{2} + \frac{1252500 + 1207500}{2} = 2.062.824€$
+
+$V = \frac{⌀FK}{⌀EK} \cdot 100% = 147,69%$
+
+$ROE =  \frac{135622}{855648} * 100% = 15,85%$
+
+$ROI = \frac{184.822}{2.062.824} \cdot 100%= 8,96%$
+
+$ROS = \frac{166708}{532658+473233} /cdot 100% = 16,57%$
+
+$Cashflow = 209.122€$
+
+V sollte nicht höher als 200% sein
+
+2. 16% unternehmerisches Risiko
+
+3. 16% von Umsatz, ganz adäquat, aber sollte nicht niedriger sein
+
+Earnings = Gewinne
+
+
+Wie stark verschulden?:
+
+Hebeleffekt = Leverage-Effekt. Aufnahme von Schulden: Eigenkapitalrentabilität steigern, Verzinsung positiv beeinflussen. Zinssatz für Fremdkapital niedriger als _Eigenkapitalrentabilität_.??
