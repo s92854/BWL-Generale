@@ -3,10 +3,10 @@
 ## Zahlungsfähigkeit sicherstellen
 
 * Voraussetzung für die Existenz eines Betriebs
-
+* Inhaber müssen sicherstellen, dass Zahlungsfähigkeit gegeben ist
 * Rechnungen müssen fristgerecht bezahlt werden (Liquide)
-* Vermögen muss höher sein als Schulden &rarr; Überschuldet
-  * Summe aller Vermögensgegenstände (Autos, Büroausstattung, etc.) muss höher sein als Schulden
+* Vermögen muss höher sein als Schulden &rarr; ansonsten Überschuldet
+  * Vermögen = auch Summe aller Vermögensgegenstände (Autos, Büroausstattung, etc.)
 
 
 
@@ -37,7 +37,7 @@ Beschaffung von Ressourcen ist Merkmal aller Betriebe. Auch: Faktoren, Produktio
   * Materielle Güter
     * Hardware
     * **Material** (z.B. Rohstoffe, Schmiermittel, Energie, etc.; wird verbraucht) und **Betriebsmittel** (z.B. Maschinen; werden gebraucht &rarr; es verschwindet nicht)
-      * Betriebsmittel müssen abgeschrieben werden &rarr; wird für Abrechnung getrennt
+      * **Betriebsmittel** müssen abgeschrieben werden &rarr; wird für Abrechnung getrennt
   * Immaterielle Güter
     * Dienstleistungen
     * Lizenzschlüssel (Software)
