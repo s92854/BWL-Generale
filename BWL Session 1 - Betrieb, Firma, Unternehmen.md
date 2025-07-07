@@ -30,11 +30,11 @@
 * Autonomieprinzip (Freiheit der unternehmerischen Kreativität &rarr; Produkte und deren Preise selbst bestimmbar &rarr; beflügelt Wirtschaft)
 * Sind in Privateigentum
 
+&nbsp;
 
 
 
-
-1-1
+## Aufgabe 1-1
 
 1. keins
 2. Betrieb
