@@ -72,15 +72,15 @@ Produktivität am letzten Tag (Grenzproduktivität): Berechnung des Winkels der 
 
 Ist die Produktivität bezogen auf die gesamte in einem Zeitabschnitt hergestellte Menge.
 
-$x̄ = \frac{x}{r} = \frac{hergestellte Menge des Produkts}{Menge der benötigten Ressourcen}$
+$\bar{x} = \frac{x}{r} = \frac{hergestellte Menge des Produkts}{Menge der benötigten Ressourcen}$
 
 
 
 ### Durchschnittsprodukt
 
-Es kann untersucht werden, wie sich eine Variation der Einsatzmenge $\Delta$r auf die Produktionsmenge $\Delta$x auswirkt.
+Es kann untersucht werden, wie sich eine Variation der Einsatzmenge $\Delta r$ auf die Produktionsmenge $\Delta x$ auswirkt.
 
-$\Delta x = x̄ *\Delta r$       ≙        Veränderung des Outputs durch Veränderung des Inputs
+$\Delta x = \bar{x} \cdot \Delta r$       ≙        Veränderung des Outputs durch Veränderung des Inputs
 
 
 
@@ -98,7 +98,7 @@ Es kann gesagt werden, wie hoch die Produktivität nicht im Durchschnitt, sonder
 
 #### Grenzprodukt
 
-$$\delta x = x' \cdot \delta r$$
+$\delta x = x' \cdot \delta r$
 
 Es kann untersucht werden, wie sich eine marginale Variation der Einsatzmenge $\delta r$ auf die Produktmenge $\delta x$ auswirkt.
 
