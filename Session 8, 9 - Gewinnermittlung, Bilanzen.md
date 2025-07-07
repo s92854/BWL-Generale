@@ -1,4 +1,4 @@
-# Session 8 - Gewinnermittlung
+# Session 8, 9 - Gewinnermittlung, Bilanzen
 **11.06.2025**
 
 ## Bilanz
@@ -24,24 +24,24 @@ Die GuV (Gewinn- und Verlustrechnung) bezieht sich auf einen Zeitraum, die Bilan
 ## Jahresabschlussanalyse
 Jahresabschlüsse werden von interessierten Personen (z.B. Einkäufern) analysiert, um den Betrieb besser verstehen und bewerten zu können.
 
-$Rentabilität = \frac{Gewinn}{eingesetztes Kapital} \cdot 100$% zur Analyse der Erfolgstage
+$Rentabilität = \frac{Gewinn}{eingesetztes Kapital} \cdot 100$ % zur Analyse der Erfolgstage
 
 Zu finden in Jahresabschlussanalyse - Soldo/Gewinn-Verlust-Rechnung
 
 **18.06.2025**
 
-$Eigenkapitalrentabilität = ROE (return on equity)= \frac{EBT}{⌀EK} * 100%$
+$Eigenkapitalrentabilität = ROE (return on equity)= \frac{EBT}{⌀EK} \cdot 100$ %
 
 $durchschnittles Eigenkapital = ⌀EK = \frac{EK^{Eröffnungsbilanz} + EK^{Schlussbilanz}}{2}$
 
 
 Gibt an, die Verzinsung des von den Eigentümern einbrachten Kapitals. Frage: Ist das Geld in diesem Unternehmen gut angelegt?
 
-$Gesamtkapitalrentabilität = ROI (return on investment) = \frac{EBIT}/{⌀GK}*100%$
+$Gesamtkapitalrentabilität = ROI (return on investment) = \frac{EBIT}{⌀GK} \cdot 100$ %
 
 Drückt die Verzinsung des gesamten Kapitals aus. Sie spiegelt die Fähigkeit des Unternehmens wider Gewinne zu erzielen, unabhängig von der Höhe der Verschuldung (da EBIT und GK nicht auf Zinsänderungen reagieren).
 
-$Erlösrentabilität: ROS = \frac{Betriebsergebnis}{Erlöse} /cdot \( 100\% \)$
+$Erlösrentabilität: ROS = \frac{Betriebsergebnis}{Erlöse} \cdot 100$ %
 
 Es kann beurteilt werden, inwiefern das Unternehmen den Verkauf der Produkte Gewinne erzielt.
 
@@ -51,7 +51,7 @@ $Cashflow = EBT + Abschreibungen$
 In welchem Umfang kann das Unternehmen aus der laufenden Geschäftstätigkeit finanzielle Mittel erwirtschaften?
 
 
-$V = \frac{⌀FK}{⌀EK} \cdot \( 100\% \)$
+$V = \frac{⌀FK}{⌀EK} \cdot 100$ %
 
 $⌀GK = \frac{EK^{Eröffnung} + EK^{Schluss}}{2} + \frac{FK^{Eröffnung} + FK^{Schluss}}{2}$
 
@@ -86,13 +86,13 @@ $⌀FK = \frac{1252500+ 1207500}{2} = 1230000$
 
 $⌀GK = \frac{810000 + 855648}{2} + \frac{1252500 + 1207500}{2} = 2.062.824€$
 
-$V = \frac{⌀FK}{⌀EK} \cdot 100% = 147,69%$
+$V = \frac{⌀FK}{⌀EK} \cdot 100% = 147,69$ %
 
-$ROE =  \frac{135622}{855648} * 100% = 15,85%$
+$ROE =  \frac{135622}{855648} * 100% = 15,85$ %
 
-$ROI = \frac{184.822}{2.062.824} \cdot 100%= 8,96%$
+$ROI = \frac{184.822}{2.062.824} \cdot 100$ % $= 8,96$ %
 
-$ROS = \frac{166708}{532658+473233} /cdot 100% = 16,57%$
+$ROS = \frac{166708}{532658+473233} \cdot 100$ % $ = 16,57$ %
 
 $Cashflow = 209.122€$
 
