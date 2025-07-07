@@ -1,6 +1,26 @@
 # Session 8, 9 - Gewinnermittlung, Bilanzen
 **11.06.2025**
 
+## Shareholder-Ansatz
+Die Eigentümer eines Unternehmens sind am Eigenkapital beteiligt (Eigenkapitalgeber). Sie bestimmten die wirtschaftlichen Ziele. Die Eigentümer sind daran interessiert, den Wert ihres Eigentums zu steigern. Der Marktwert des Eigentums wird shareholder value oder Marktkapitalisierung genannt.
+
+Markpaitalisierung = Anzahl der gehandelten Aktien $\cdot$ Börsenkurs
+
+## Wertsteigerung
+Existenzsicherung, Wachstum, Gewinn, hohe Eigenkapitalrentabilität
+
+Unternehmensgewinn: ist Bestandteil zu jedem Jahresabschluss
+
+$Betriebsergebnis = Erlöse - Materialkosten - Personalkosten - Abschreibungen$        (Gewinn aus normaler betrieblicher Tätigkeit)
+
+$Finanzergebnis = Finanzerlöse - Fremdkapitalzinsen - Abschreibungen$            (Gewinn aus Geldgeschäften)
+
+$EBT = Betriebsergebnis + Finanzergebnis$             (Gewinn vor Steuern gewöhnlicher Geschäftstätigkeit)
+
+$EBIT = EBT + Fremdkapitalzinsen$         (Gewinn vor Zinsen und Steuern), Zinseffekte sind herausgerechnet
+
+$EAT = EBT \pm außerordentliches Ergebnis - Ertragssteuern$            (Gewinn und Steuern, Jahresabschluss/Jahresfehlbetrag)
+
 ## Bilanz
 Unternehmen sind verpflichtet, ein Mal pro Jahr eine Bilanz aufzustellen. Die Bilanz gehört zum Jahresabschluss. Grundlage der Bilanz ist das Inventar. Alle Vermögensgegenstände [Eigentum des Unternehmens] (V<sub>1</sub>, V<sub>2</sub>, ..., V<sub>n</sub>,) und alle Schulden (S<sub>1</sub>, S<sub>2</sub>,..., S<sub>n</sub>). Die Bilanz wird aus dem Inventar abgeleitet. Sie ist eine Gegenüberstellung des Vermögens mit dem Eigen- und Fremdkapital.
 
